@@ -74,7 +74,7 @@ Exchange 0-day vuln: CVE-2022-41082
     basepath = "/"
   end
 
-  path = basepath .. 'autodiscover/autodiscover.json@'..rand.random_alpha(10)..'.com/owa/'
+  path = basepath .. 'autodiscover/autodiscover.json@Powershell.'..rand.random_alpha(10)..'.com/owa/'
 
   target = host.ip .. "-" .. port.number
 
