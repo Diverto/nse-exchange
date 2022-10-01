@@ -70,10 +70,13 @@ General references and links to the vulnerability
 ## Microsoft
 
 [Microsoft Blog](https://www.microsoft.com/security/blog/2022/09/30/analyzing-attacks-using-the-exchange-vulnerabilities-cve-2022-41040-and-cve-2022-41082/) - Microsoft blog about CVE-2022-41082
+
 [Microsoft Mitigation Tool](https://microsoft.github.io/CSS-Exchange/Security/EOMTv2) - Microsoft Exchange On-premises Mitigation Tool v2
+
 [Microsoft Guidance](https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/) - Microsoft Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server
 
 ## Other testing tools
 
 [VNCCERT-CC 0dayex-checker](https://github.com/VNCERT-CC/0dayex-checker) - Zeroday Microsoft Exchange Server checker (Virtual Patching checker)
+
 
