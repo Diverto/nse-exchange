@@ -80,3 +80,7 @@ General references and links to the vulnerability
 [VNCCERT-CC 0dayex-checker](https://github.com/VNCERT-CC/0dayex-checker) - Zeroday Microsoft Exchange Server checker (Virtual Patching checker)
 
 
+# Credits
+
+Authored by Vlatko Kosturjak (Diverto). Thanks to Dalibor S.
+
