@@ -1,6 +1,6 @@
 # nse-exchange
 
-Nmap NSE scripts to check against exchange vulnerability (CVE-2022-44228).
+Nmap NSE scripts to check against exchange vulnerability (CVE-2022-41082).
 NSE scripts check most popular exposed services on the Internet. It is basic script which checks if virtual patching works.
 
 ### Examples
